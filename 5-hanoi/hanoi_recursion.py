@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+# *-* coding:utf-8 *-*
+
+###############################
+# Author: wakeblade(顽刀)
+# EMail: 2390245@11.com
+# Date: 2020-2-12
+###############################
+
 # 递归法解hanoi塔问题
 def move(n,fromSpike,toSpike):
     global count,top
